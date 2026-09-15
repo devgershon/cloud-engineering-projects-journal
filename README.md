@@ -24,7 +24,7 @@ This repository records what was built, the architecture decisions behind it, an
 
 ## Focus
 
-These projects cover the core pillars expected in cloud and platform engineering roles:
+These projects cover the core pillars in cloud and platform engineering:
 
 - Infrastructure as Code
 - Secure architecture
