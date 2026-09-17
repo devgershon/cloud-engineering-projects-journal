@@ -1,4 +1,4 @@
-# Cloud Engineering Project Journal
+# Cloud Engineering Projects Journal
 
 Personal journal documenting hands-on cloud engineering projects on AWS.
 
